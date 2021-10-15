@@ -8,6 +8,6 @@ I am a person who will continue to learn
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bima.bagaskhoro@gmail.com.com)
 
 ### My Github Stats
-[![Bimabagaskhoro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bimabagaskhoro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimabagaskhoro)](https://github.com/anuraghazra/github-readme-stats)
 
 
