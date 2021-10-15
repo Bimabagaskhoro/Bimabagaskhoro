@@ -1,4 +1,6 @@
-### touché
+### Hi! 👋, I'am Bima.
+
+I am a person who will continue to learn
 
 ### My Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
