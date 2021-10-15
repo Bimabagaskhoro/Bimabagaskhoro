@@ -14,8 +14,8 @@ I am a person who will continue to learn
 
 ### My Github Stats
 <p align="left">
-<a href="https://github.com/ramdhanjr11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramdhanjr11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramdhanjr11&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/Bimabagaskhoro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bimabagaskhoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bimabagaskhoro&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
