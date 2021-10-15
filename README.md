@@ -5,7 +5,15 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
+### Reach me on
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bimabk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://linkedin.com/in/bimabk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bima.bagaskhoro@gmail.com.com)
 
 ### My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimabagaskhoro&layout=compact&theme=dark&show_icons=true)](https://github.com/Bimabagaskhoro/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bimabagaskhoro&count_private=true&theme=dark&show_icons=true)
+<p align="left">
+<a href="https://github.com/Bimabagaskhoro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bimabagaskhoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bimabagaskhoro&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
